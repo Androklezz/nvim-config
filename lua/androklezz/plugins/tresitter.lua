@@ -18,6 +18,7 @@ return {
                     "bash",
                     "vim",
                     "vimdoc",
+                    "gdscript",
                 },
                 auto_install = true,
             })
